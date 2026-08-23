@@ -18,7 +18,17 @@ rm -rf "$OUT_DIR/$SLUG"
 mkdir -p "$OUT_DIR/$SLUG"
 
 cd "$REPO_ROOT"
-git archive HEAD | tar -x -C "$OUT_DIR/$SLUG"
+# Piping `git archive` straight into `tar -x` is flaky under `pipefail`: tar
+# can close its end of the pipe as soon as it hits the end-of-archive
+# padding, before git archive finishes writing, which sends git archive a
+# SIGPIPE and aborts this script (exit 141) right before the .po/.mo
+# stripping below ever runs - silently, since the extraction itself had
+# already fully succeeded. Route through a temp file instead so there's no
+# pipe to race.
+ARCHIVE_TMP="$(mktemp)"
+git archive -o "$ARCHIVE_TMP" HEAD
+tar -x -C "$OUT_DIR/$SLUG" -f "$ARCHIVE_TMP"
+rm -f "$ARCHIVE_TMP"
 rm -rf "$OUT_DIR/$SLUG/bin"
 find "$OUT_DIR/$SLUG/languages" \( -name '*.po' -o -name '*.mo' \) -print0 | xargs -0 rm -f
 

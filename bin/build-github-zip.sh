@@ -16,7 +16,12 @@ rm -rf "$OUT_DIR/$SLUG"
 mkdir -p "$OUT_DIR/$SLUG"
 
 cd "$REPO_ROOT"
-git archive HEAD | tar -x -C "$OUT_DIR/$SLUG"
+# See build-wporg-zip.sh for why this goes through a temp file instead of
+# piping git archive straight into tar.
+ARCHIVE_TMP="$(mktemp)"
+git archive -o "$ARCHIVE_TMP" HEAD
+tar -x -C "$OUT_DIR/$SLUG" -f "$ARCHIVE_TMP"
+rm -f "$ARCHIVE_TMP"
 rm -rf "$OUT_DIR/$SLUG/bin"
 
 cd "$OUT_DIR"
