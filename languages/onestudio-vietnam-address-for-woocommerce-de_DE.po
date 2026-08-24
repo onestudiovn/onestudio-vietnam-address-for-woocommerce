@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: OneStudio Vietnam Address for WooCommerce 1.1.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/onestudio-vietnam-"
 "address-for-woocommerce\n"
-"POT-Creation-Date: 2026-08-24T03:41:26+00:00\n"
+"POT-Creation-Date: 2026-08-24T03:43:39+00:00\n"
 "PO-Revision-Date: 2026-08-16T07:30:43+00:00\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German (Germany) <LL@li.org>\n"
@@ -46,17 +46,11 @@ msgstr "OneStudio"
 msgid "https://onestudio.vn"
 msgstr "https://onestudio.vn"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:81
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:81
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:81
 #: includes/class-vn-address-admin.php:81
 msgid "VN Address for WooCommerce"
 msgstr "VN Address for WooCommerce"
 
 #. translators: %s: link to WooCommerce Settings > Advanced > Features
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:85
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:85
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:85
 #: includes/class-vn-address-admin.php:85
 #, php-format
 msgid ""
@@ -71,168 +65,93 @@ msgstr ""
 "aktivieren Sie \"Cart and checkout shortcodes\" unter %s, um den klassischen "
 "Checkout zu verwenden."
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:86
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:193
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:86
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:193
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:86
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:193
 #: includes/class-vn-address-admin.php:86
 #: includes/class-vn-address-admin.php:193
 msgid "WooCommerce > Settings > Advanced > Features"
 msgstr "WooCommerce > Settings > Advanced > Features"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:97
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:97
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:97
 #: includes/class-vn-address-admin.php:97
 msgid "Vietnam Address for WooCommerce"
 msgstr "Vietnam Address for WooCommerce"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:98
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:98
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:98
 #: includes/class-vn-address-admin.php:98
 msgid "Vietnam Address"
 msgstr "Vietnam Address"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:160
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:160
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:160
 #: includes/class-vn-address-admin.php:160
 msgid "This will convert all orders with old address structure. Continue?"
 msgstr ""
 "Dadurch werden alle Bestellungen mit der alten Adressstruktur umgewandelt. "
 "Fortfahren?"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:161
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:161
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:161
 #: includes/class-vn-address-admin.php:161
 msgid "Converting..."
 msgstr "Wird umgewandelt..."
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:162
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:162
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:162
 #: includes/class-vn-address-admin.php:162
 msgid "Conversion Results:"
 msgstr "Umwandlungsergebnisse:"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:163
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:163
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:163
 #: includes/class-vn-address-admin.php:163
 msgid "Converted:"
 msgstr "Umgewandelt:"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:164
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:164
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:164
 #: includes/class-vn-address-admin.php:164
 msgid "Needs review:"
 msgstr "Zu prüfen:"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:165
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:165
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:165
 #: includes/class-vn-address-admin.php:165
 msgid "Failed:"
 msgstr "Fehlgeschlagen:"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:166
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:166
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:166
 #: includes/class-vn-address-admin.php:166
 msgid "Errors:"
 msgstr "Fehler:"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:167
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:167
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:167
 #: includes/class-vn-address-admin.php:167
 msgid "Conversion failed. Please try again."
 msgstr "Die Umwandlung ist fehlgeschlagen. Bitte versuchen Sie es erneut."
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:168
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:168
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:168
 #: includes/class-vn-address-admin.php:168
 msgid "No orders to convert."
 msgstr "Keine Bestellungen zu konvertieren."
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:169
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:318
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:169
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:318
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:169
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:318
 #: includes/class-vn-address-admin.php:169
 #: includes/class-vn-address-admin.php:318
 msgid "Convert Now"
 msgstr "Jetzt umwandeln"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:170
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:170
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:170
 #: includes/class-vn-address-admin.php:170
 msgid "Testing..."
 msgstr "Wird getestet..."
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:171
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:274
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:171
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:274
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:171
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:274
 #: includes/class-vn-address-admin.php:171
 #: includes/class-vn-address-admin.php:274
 msgid "Test Connection"
 msgstr "Verbindung testen"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:172
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:172
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:172
 #: includes/class-vn-address-admin.php:172
 msgid "Connection error"
 msgstr "Verbindungsfehler"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:173
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:173
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:173
 #: includes/class-vn-address-admin.php:173
 msgid "Are you sure you want to clear the cached server data?"
 msgstr "Möchten Sie die zwischengespeicherten Serverdaten wirklich löschen?"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:174
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:174
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:174
 #: includes/class-vn-address-admin.php:174
 msgid "Clearing..."
 msgstr "Wird gelöscht..."
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:175
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:277
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:175
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:277
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:175
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:277
 #: includes/class-vn-address-admin.php:175
 #: includes/class-vn-address-admin.php:277
 msgid "Clear Cache"
 msgstr "Cache leeren"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:176
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:176
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:176
 #: includes/class-vn-address-admin.php:176
 msgid "Error clearing cache"
 msgstr "Fehler beim Leeren des Caches"
 
 #. translators: %s: link to WooCommerce Settings > Advanced > Features
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:192
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:192
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:192
 #: includes/class-vn-address-admin.php:192
 #, php-format
 msgid ""
@@ -246,9 +165,6 @@ msgstr ""
 "dieses Plugins. Aktualisieren Sie WooCommerce auf 8.9 oder höher, oder "
 "aktivieren Sie \"Cart and checkout shortcodes\" unter %s."
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:201
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:201
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:201
 #: includes/class-vn-address-admin.php:201
 msgid ""
 "Your Checkout page uses the WooCommerce block-based checkout. Customers will "
@@ -261,38 +177,23 @@ msgstr ""
 "Adressstruktur (nach dem 1.7.2025). Die alte Struktur mit Bezirk ist nur im "
 "klassischen Checkout verfügbar."
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:215
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:215
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:215
 #: includes/class-vn-address-admin.php:215
 msgid "Address Settings"
 msgstr "Adresseinstellungen"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:220
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:220
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:220
 #: includes/class-vn-address-admin.php:220
 msgid "Default Address Structure"
 msgstr "Standard-Adressstruktur"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:225
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:225
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:225
 #: includes/class-vn-address-admin.php:225
 msgid "New structure (After 1/7/2025) - 34 provinces"
 msgstr "Neue Struktur (nach dem 1.7.2025) - 34 Provinzen"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:228
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:228
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:228
 #: includes/class-vn-address-admin.php:228
 msgid "Old structure (Before 1/7/2025) - 63 provinces"
 msgstr "Alte Struktur (vor dem 1.7.2025) - 63 Provinzen"
 
 #. translators: %s: "Learn more" link to the plugin homepage
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:235
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:235
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:235
 #: includes/class-vn-address-admin.php:235
 #, php-format
 msgid ""
@@ -302,23 +203,14 @@ msgstr ""
 "Wählen Sie die Standard-Adressstruktur für das Checkout-Formular. Kunden "
 "können sie bei der Bestellung ändern. %s"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:236
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:236
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:236
 #: includes/class-vn-address-admin.php:236
 msgid "Learn more"
 msgstr "Mehr erfahren"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:245
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:245
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:245
 #: includes/class-vn-address-admin.php:245
 msgid "Searchable Dropdowns"
 msgstr "Durchsuchbare Auswahlfelder"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:255
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:255
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:255
 #: includes/class-vn-address-admin.php:255
 msgid ""
 "Make the Province/City, District, and Ward fields searchable (type to "
@@ -327,9 +219,6 @@ msgstr ""
 "Die Felder Provinz/Stadt, Bezirk und Gemeinde beim Classic Checkout "
 "durchsuchbar machen (Eingabe zum Filtern)"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:258
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:258
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:258
 #: includes/class-vn-address-admin.php:258
 msgid ""
 "Uses the Select2 dropdown already bundled with WooCommerce, so it works "
@@ -345,16 +234,10 @@ msgstr ""
 "Auswahlfelder. Betrifft nur den Classic Checkout; der Block Checkout verfügt "
 "bereits über ein eigenes durchsuchbares Gemeinde-Feld."
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:265
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:265
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:265
 #: includes/class-vn-address-admin.php:265
 msgid "API Server"
 msgstr "API-Server"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:281
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:281
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:281
 #: includes/class-vn-address-admin.php:281
 msgid ""
 "Keep the default address filled in here to get administrative address "
@@ -367,18 +250,12 @@ msgstr ""
 "neuesten Änderungen der vietnamesischen Verwaltungsadressen zu erhalten."
 
 #. translators: %s: link to the VietMap open data source
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:287
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:287
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:287
 #: includes/class-vn-address-admin.php:287
 #, php-format
 msgid "Administrative data provided by VietMap: %s."
 msgstr "Verwaltungsdaten bereitgestellt von VietMap: %s."
 
 #. translators: %s: link to the self-hostable API server source code on GitHub
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:296
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:296
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:296
 #: includes/class-vn-address-admin.php:296
 #, php-format
 msgid ""
@@ -386,23 +263,14 @@ msgid ""
 "source: %s."
 msgstr "Open-Source-Code des API-Dienstes: %s."
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:306
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:306
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:306
 #: includes/class-vn-address-admin.php:306
 msgid "Save Settings"
 msgstr "Einstellungen speichern"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:310
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:310
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:310
 #: includes/class-vn-address-admin.php:310
 msgid "Old-to-new address conversion tool"
 msgstr "Werkzeug zur Umwandlung alter in neue Adressen"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:312
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:312
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:312
 #: includes/class-vn-address-admin.php:312
 msgid ""
 "Converts existing orders from the old address structure to the new structure "
@@ -427,105 +295,63 @@ msgstr ""
 "genau wie übermittelt erhalten, und das Umwandlungsergebnis wird zusätzlich "
 "gespeichert."
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:334
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:334
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:334
 #: includes/class-vn-address-admin.php:334
 msgid "Address Data"
 msgstr "Adressdaten"
 
 #. translators: %s: link to the VietMap data source
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:340
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:340
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:340
 #: includes/class-vn-address-admin.php:340
 #, php-format
 msgid "Bundled with the plugin, no external API required. Source: %s."
 msgstr "Im Plugin enthalten, keine externe API erforderlich. Quelle: %s."
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:348
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:348
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:348
 #: includes/class-vn-address-admin.php:348
 msgid "Support"
 msgstr "Support"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:349
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:349
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:349
 #: includes/class-vn-address-admin.php:349
 msgid "Need help? Contact us."
 msgstr "Benötigen Sie Hilfe? Kontaktieren Sie uns."
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:351
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:351
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:351
 #: includes/class-vn-address-admin.php:351
 msgid "Contact Support"
 msgstr "Support kontaktieren"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:356
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:356
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:356
 #: includes/class-vn-address-admin.php:356
 msgid "Plugin Information"
 msgstr "Plugin-Informationen"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:358
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:358
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:358
 #: includes/class-vn-address-admin.php:358
 msgid "Version:"
 msgstr "Version:"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:359
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:359
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:359
 #: includes/class-vn-address-admin.php:359
 msgid "Structure:"
 msgstr "Struktur:"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:359
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:359
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:359
 #: includes/class-vn-address-admin.php:359
 msgid "New (34 provinces)"
 msgstr "Neu (34 Provinzen)"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:359
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:359
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:359
 #: includes/class-vn-address-admin.php:359
 msgid "Old (63 provinces)"
 msgstr "Alt (63 Provinzen)"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:360
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:360
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:360
 #: includes/class-vn-address-admin.php:360
 msgid "Author:"
 msgstr "Autor:"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:361
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:361
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:361
 #: includes/class-vn-address-admin.php:361
 msgid "Website:"
 msgstr "Website:"
 
 #. translators: 1: number of provinces, 2: number of wards
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:383
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:383
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:383
 #: includes/class-vn-address-admin.php:383
 #, php-format
 msgid "%1$d provinces, %2$d wards loaded (new structure)."
 msgstr "%1$d Provinzen, %2$d Gemeinden geladen (neue Struktur)."
 
 #. translators: %s: configured server URL
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:393
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:393
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:393
 #: includes/class-vn-address-admin.php:393
 #, php-format
 msgid ""
@@ -534,18 +360,6 @@ msgstr ""
 "API-Server: %s (fällt automatisch auf mitgelieferte Daten zurück, falls "
 "nicht erreichbar)."
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:405
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:443
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:461
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:480
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:405
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:443
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:461
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:480
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:405
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:443
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:461
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:480
 #: includes/class-vn-address-admin.php:405
 #: includes/class-vn-address-admin.php:443
 #: includes/class-vn-address-admin.php:461
@@ -554,67 +368,37 @@ msgid "Permission denied"
 msgstr "Zugriff verweigert"
 
 #. translators: %d: HTTP status code
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:423
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:423
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:423
 #: includes/class-vn-address-admin.php:423
 #, php-format
 msgid "Server responded with HTTP %d"
 msgstr "Server antwortete mit HTTP %d"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:430
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:430
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:430
 #: includes/class-vn-address-admin.php:430
 msgid "Server responded, but not in the expected format"
 msgstr "Der Server hat geantwortet, aber nicht im erwarteten Format"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:434
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:434
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:434
 #: includes/class-vn-address-admin.php:434
 msgid "Connection successful!"
 msgstr "Verbindung erfolgreich!"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:449
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:449
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-admin.php:449
 #: includes/class-vn-address-admin.php:449
 msgid "Cache cleared successfully!"
 msgstr "Cache erfolgreich geleert!"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:102
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:162
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:208
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:102
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:162
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:208
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:102
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:162
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:208
 #: includes/class-vn-address-blocks.php:102
 #: includes/class-vn-address-checkout.php:162
 #: includes/class-vn-address-checkout.php:208
 msgid "Province/City"
 msgstr "Provinz/Stadt"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:111
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:111
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:111
 #: includes/class-vn-address-blocks.php:111
 msgid "Ward/Commune"
 msgstr "Gemeinde/Bezirk"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:119
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:119
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:119
 #: includes/class-vn-address-blocks.php:119
 msgid "Ward code"
 msgstr "Gemeindecode"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:144
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:144
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:144
 #: includes/class-vn-address-blocks.php:144
 msgid ""
 "Please select a valid Ward/Commune from the list for the chosen Province/"
@@ -623,193 +407,97 @@ msgstr ""
 "Bitte wählen Sie eine gültige Gemeinde/Bezirk aus der Liste der ausgewählten "
 "Provinz/Stadt aus."
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:178
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:178
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:178
 #: includes/class-vn-address-blocks.php:178
 msgid "Select a Province/City first"
 msgstr "Bitte wählen Sie zuerst eine Provinz/Stadt"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:179
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:179
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-blocks.php:179
 #: includes/class-vn-address-blocks.php:179
 msgid "No matches found"
 msgstr "Keine Treffer gefunden"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:70
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:166
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:212
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:70
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:166
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:212
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:70
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:166
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:212
 #: includes/class-vn-address-checkout.php:70
 #: includes/class-vn-address-checkout.php:166
 #: includes/class-vn-address-checkout.php:212
 msgid "Select Province/City"
 msgstr "Provinz/Stadt auswählen"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:71
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:176
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:221
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:71
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:176
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:221
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:71
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:176
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:221
 #: includes/class-vn-address-checkout.php:71
 #: includes/class-vn-address-checkout.php:176
 #: includes/class-vn-address-checkout.php:221
 msgid "Select District"
 msgstr "Distrikt auswählen"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:72
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:186
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:230
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:72
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:186
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:230
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:72
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:186
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:230
 #: includes/class-vn-address-checkout.php:72
 #: includes/class-vn-address-checkout.php:186
 #: includes/class-vn-address-checkout.php:230
 msgid "Select Ward"
 msgstr "Gemeinde auswählen"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:73
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:73
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:73
 #: includes/class-vn-address-checkout.php:73
 msgid "required"
 msgstr "erforderlich"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:118
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:252
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:118
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:252
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:118
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:252
 #: includes/class-vn-address-checkout.php:118
 #: includes/class-vn-address-checkout.php:252
 msgid "Your Name"
 msgstr "Ihr Name"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:119
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:119
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:119
 #: includes/class-vn-address-checkout.php:119
 msgid "Enter your full name"
 msgstr "Geben Sie Ihren vollständigen Namen ein"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:130
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:130
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:130
 #: includes/class-vn-address-checkout.php:130
 msgid "Phone Number"
 msgstr "Telefonnummer"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:131
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:131
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:131
 #: includes/class-vn-address-checkout.php:131
 msgid "Enter your phone number"
 msgstr "Geben Sie Ihre Telefonnummer ein"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:137
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:137
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:137
 #: includes/class-vn-address-checkout.php:137
 msgid "Email"
 msgstr "E-Mail"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:138
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:138
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:138
 #: includes/class-vn-address-checkout.php:138
 msgid "Enter your email address"
 msgstr "Geben Sie Ihre E-Mail-Adresse ein"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:146
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:146
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:146
 #: includes/class-vn-address-checkout.php:146
 msgid "Choose Address Entry Method"
 msgstr "Adresseingabemethode wählen"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:152
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:152
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:152
 #: includes/class-vn-address-checkout.php:152
 msgid "New address (Province/City → Ward)"
 msgstr "Neue Adresse (Provinz/Stadt → Gemeinde)"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:153
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:153
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:153
 #: includes/class-vn-address-checkout.php:153
 msgid "Old address (Province/City → District → Ward)"
 msgstr "Alte Adresse (Provinz/Stadt → Distrikt → Gemeinde)"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:172
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:217
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:172
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:217
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:172
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:217
 #: includes/class-vn-address-checkout.php:172
 #: includes/class-vn-address-checkout.php:217
 msgid "District"
 msgstr "Distrikt"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:182
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:226
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:182
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:226
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:182
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:226
 #: includes/class-vn-address-checkout.php:182
 #: includes/class-vn-address-checkout.php:226
 msgid "Ward"
 msgstr "Gemeinde"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:191
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:234
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:191
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:234
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:191
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:234
 #: includes/class-vn-address-checkout.php:191
 #: includes/class-vn-address-checkout.php:234
 msgid "Detailed Address"
 msgstr "Detaillierte Adresse"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:192
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:235
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:192
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:235
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:192
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:235
 #: includes/class-vn-address-checkout.php:192
 #: includes/class-vn-address-checkout.php:235
 msgid "House number, street name..."
 msgstr "Hausnummer, Straßenname..."
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:242
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:242
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:242
 #: includes/class-vn-address-checkout.php:242
 msgid "Order Notes"
 msgstr "Bestellhinweise"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:243
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:243
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:243
 #: includes/class-vn-address-checkout.php:243
 msgid ""
 "Notes about your order, e.g. delivery time or more detailed delivery "
@@ -818,62 +506,35 @@ msgstr ""
 "Hinweise zu Ihrer Bestellung, z. B. Lieferzeit oder detailliertere "
 "Lieferanweisungen."
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:317
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:317
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:317
 #: includes/class-vn-address-checkout.php:317
 msgid "Vietnamese Address Information"
 msgstr "Vietnamesische Adressinformationen"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:320
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:320
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:320
 #: includes/class-vn-address-checkout.php:320
 msgid "Billing Address"
 msgstr "Rechnungsadresse"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:323
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:335
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:323
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:335
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:323
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:335
 #: includes/class-vn-address-checkout.php:323
 #: includes/class-vn-address-checkout.php:335
 msgid "Province/City:"
 msgstr "Provinz/Stadt:"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:326
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:338
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:326
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:338
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:326
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:338
 #: includes/class-vn-address-checkout.php:326
 #: includes/class-vn-address-checkout.php:338
 msgid "Ward:"
 msgstr "Gemeinde:"
 
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:332
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:332
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-checkout.php:332
 #: includes/class-vn-address-checkout.php:332
 msgid "Shipping Address"
 msgstr "Lieferadresse"
 
 #. translators: %d: order ID.
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-converter.php:156
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-converter.php:156
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-converter.php:156
 #: includes/class-vn-address-converter.php:156
 #, php-format
 msgid "Order #%d: missing address data"
 msgstr "Bestellung #%d: fehlende Adressdaten"
 
 #. translators: %d: order ID.
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-converter.php:172
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-converter.php:172
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-converter.php:172
 #: includes/class-vn-address-converter.php:172
 #, php-format
 msgid "Order #%d: multiple possible new wards, needs manual review"
@@ -882,18 +543,12 @@ msgstr ""
 "erforderlich"
 
 #. translators: %d: order ID.
-#: build/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-converter.php:179
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-converter.php:179
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/includes/class-vn-address-converter.php:179
 #: includes/class-vn-address-converter.php:179
 #, php-format
 msgid "Order #%d: no matching ward found in the conversion table"
 msgstr ""
 "Bestellung #%d: keine passende Gemeinde in der Umwandlungstabelle gefunden"
 
-#: build/onestudio-vietnam-address-for-woocommerce/vn-address-woocommerce.php:50
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/vn-address-woocommerce.php:50
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/vn-address-woocommerce.php:50
 #: vn-address-woocommerce.php:50
 msgid ""
 "Vietnam Address for WooCommerce requires WooCommerce to be installed and "
@@ -902,23 +557,14 @@ msgstr ""
 "Vietnam Address for WooCommerce erfordert, dass WooCommerce installiert und "
 "aktiviert ist."
 
-#: build/onestudio-vietnam-address-for-woocommerce/vn-address-woocommerce.php:115
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/vn-address-woocommerce.php:115
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/vn-address-woocommerce.php:115
 #: vn-address-woocommerce.php:115
 msgid "Settings"
 msgstr "Einstellungen"
 
-#: build/onestudio-vietnam-address-for-woocommerce/vn-address-woocommerce.php:192
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/vn-address-woocommerce.php:192
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/vn-address-woocommerce.php:192
 #: vn-address-woocommerce.php:192
 msgid "Province code is required"
 msgstr "Provinzcode ist erforderlich"
 
-#: build/onestudio-vietnam-address-for-woocommerce/vn-address-woocommerce.php:207
-#: build/uri-check/onestudio-vietnam-address-for-woocommerce/vn-address-woocommerce.php:207
-#: build/wporg-verify/onestudio-vietnam-address-for-woocommerce/vn-address-woocommerce.php:207
 #: vn-address-woocommerce.php:207
 msgid "Parent code is required"
 msgstr "Übergeordneter Code ist erforderlich"
